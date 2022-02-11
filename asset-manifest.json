@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firechat/static/css/main.f119e434.css",
-    "main.js": "/firechat/static/js/main.8dfe31d2.js",
-    "static/js/787.41de221d.chunk.js": "/firechat/static/js/787.41de221d.chunk.js",
-    "index.html": "/firechat/index.html",
-    "main.f119e434.css.map": "/firechat/static/css/main.f119e434.css.map",
-    "main.8dfe31d2.js.map": "/firechat/static/js/main.8dfe31d2.js.map",
-    "787.41de221d.chunk.js.map": "/firechat/static/js/787.41de221d.chunk.js.map"
+    "main.css": "/FireChat/static/css/main.f119e434.css",
+    "main.js": "/FireChat/static/js/main.f8ea41ba.js",
+    "static/js/787.41de221d.chunk.js": "/FireChat/static/js/787.41de221d.chunk.js",
+    "index.html": "/FireChat/index.html",
+    "main.f119e434.css.map": "/FireChat/static/css/main.f119e434.css.map",
+    "main.f8ea41ba.js.map": "/FireChat/static/js/main.f8ea41ba.js.map",
+    "787.41de221d.chunk.js.map": "/FireChat/static/js/787.41de221d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f119e434.css",
-    "static/js/main.8dfe31d2.js"
+    "static/js/main.f8ea41ba.js"
   ]
 }
